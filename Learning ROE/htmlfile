@@ -1,0 +1,10 @@
+<! doctype html>
+<html lang="en">
+    <head>
+        <title>My first html website</title>
+        <script src='script1.js'>
+            </script>
+    </head>
+    <body>
+    </body>
+</html>
